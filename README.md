@@ -29,8 +29,10 @@ Questo repository raccoglie **dati, studi, leggi, campagne e materiali multimedi
    - Video Informativo per minori a cura del dott. Francesco Conti, psicologo e psicoterapeuta del Centro di Solidarietà “Il F.A.R.O.”. (Gioco d’azzardo: cosa devono sapere i minori)[https://youtu.be/rgSNWZ1Mkvg]
    - Video “La Dipendenza dai Videogiochi: Come Riconoscerla, Come Funziona e Come Uscirne? | #TELOSPIEGO”
 Perché si diventa dipendenti dai videogiochi? Come si riconoscono i sintomi della dipendenza da gaming e come si fa ad uscirne? [#TELOSPIEGO in questo video, realizzato in collaborazione con l’Istituto Superiore di Sanità e finanziato dal Dipartimento Politiche Antidroga del Ministero della Salute.](https://www.youtube.com/watch?v=UcUZE8BJ4Ic)
-
-
+- **Azzardo Ti Vinco**
+   [Sito] (https://azzardotivinco.it/)
+  - "Cambio Gioco" è il festival che si svolge a Padova, organizzato dall'ULSS 6 Euganea, dedicato alla prevenzione delle dipendenze comportamentali e del gioco d'azzardo patologico [Cambio Gioco](https://cambiogiocoulss6.it/)
+  - Formazione Online Per insegnanti [Video](https://www.youtube.com/playlist?list=PLWnqswZXgTMDAeTDkIk2PRCDH4YNETEWi)
 
 ---
 
