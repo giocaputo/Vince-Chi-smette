@@ -2,3 +2,5 @@ theme: jekyll-theme-cayman
 title: "Vince chi smette -Contro la pratica dell'azzardo"
 description: "Un progetto aperto per sensibilizzare contro l’azzardo e le sue conseguenze."
 google_analytics: [G-9TFJY55K7F]
+plugins:
+  - jekyll-sitemap
