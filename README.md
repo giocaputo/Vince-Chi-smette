@@ -1,4 +1,4 @@
-# Vince Chi Smette - Contro a pratica dell'azzardo
+# Vince Chi Smette - Contro la pratica dell'azzardo
 Un progetto aperto per sensibilizzare contro l’azzardo e le sue conseguenze.  
 Questo repository raccoglie **dati, studi, leggi, campagne e materiali multimediali** per diffondere consapevolezza e informazione.
 
