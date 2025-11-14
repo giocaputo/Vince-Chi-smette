@@ -1,14 +1,6 @@
 # Vince Chi Smette - Contro a pratica dell'azzardo
-
 Un progetto aperto per sensibilizzare contro l’azzardo e le sue conseguenze.  
 Questo repository raccoglie **dati, studi, leggi, campagne e materiali multimediali** per diffondere consapevolezza e informazione.
-
-## 📚 Contenuti (in progress)
-<!-- - [Indice tematico](./indice.md)
-- [Tematiche principali](./tematiche/)
-- [Statistiche e rapporti ufficiali](./fonti/)
-- [Video e campagne](./media/)
-- [Iniziative regionali](./regioni/) -->
 
 ## 🏛️ Enti Istituzionali e Ricerca
 - **Istituto Superiore di Sanità (ISS)**  
