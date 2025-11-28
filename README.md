@@ -166,6 +166,9 @@ I documenti ADM riportano la **raccolta (giocato)**, le **vincite** e il **getti
 ## Il gioco online - Presadiretta 30/09/2019
 [Youtube](https://www.youtube.com/watch?v=WDLVkI4NSvg)
 
+## RAI1 - Servizio sul gioco d'azzardo del 28 marzo 2022
+[Youtube](https://www.youtube.com/watch?v=oAo9TxO9_Dk)
+
 ---
 
 📌 *Tutti i link sono verificati e aggiornati (ottobre 2025). Se desideri contribuire, aggiungi altre fonti regionali o materiali locali tramite una pull request o contattando giovannicaputo86@gmail.com*
