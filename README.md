@@ -163,6 +163,9 @@ I documenti ADM riportano la **raccolta (giocato)**, le **vincite** e il **getti
 ## Zeta - ROBERTO SAVIANO: MAFIE E GIOCO D'AZZARDO
 [Youtube](https://www.youtube.com/watch?v=8tGuycEK6D8)
 
+## Il gioco online - Presadiretta 30/09/2019
+[Youtube](https://www.youtube.com/watch?v=WDLVkI4NSvg)
+
 ---
 
 📌 *Tutti i link sono verificati e aggiornati (ottobre 2025). Se desideri contribuire, aggiungi altre fonti regionali o materiali locali tramite una pull request o contattando giovannicaputo86@gmail.com*
