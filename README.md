@@ -169,6 +169,8 @@ I documenti ADM riportano la **raccolta (giocato)**, le **vincite** e il **getti
 ## RAI1 - Servizio sul gioco d'azzardo del 28 marzo 2022
 [Youtube](https://www.youtube.com/watch?v=oAo9TxO9_Dk)
 
+## Il calcio e il gioco d’azzardo
+[Short youtube](https://www.youtube.com/shorts/XPdlbdAaCqI)
 ---
 
 📌 *Tutti i link sono verificati e aggiornati (ottobre 2025). Se desideri contribuire, aggiungi altre fonti regionali o materiali locali tramite una pull request o contattando giovannicaputo86@gmail.com*
