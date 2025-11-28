@@ -46,7 +46,12 @@ Educazione, prevenzione e informazione sull’azzardo
 - [**Giocoresponsabile**](https://giocoresponsabile.info/)
 Giocoresponsabile.info, un’associazione no-profit nata con l’obiettivo di promuovere una cultura di gioco consapevole e responsabile
 
-  
+- [**Se questo è un gioco**](https://sequestoeungioco.org/)
+Se questo è un gioco è il portale di informazione, prevenzione, sensibilizzazione e supporto per:
+. chi ha un problema con il gioco d’azzardo
+. i familiari e le persone vicine a chi gioca d’azzardo in modo problematico o patologico
+. le persone che desiderano essere consapevoli di un tema che è sottobanco, ma che invece ci riguarda tutti, anche se non abbiamo una dipendenza da azzardo e anche se non abbiamo mai ‘giocato’. 
+
 ---
 
 ## 📊 Report e Documenti
@@ -151,6 +156,10 @@ I documenti ADM riportano la **raccolta (giocato)**, le **vincite** e il **getti
 
 ## Caritas – *Consapevoli contro l’azzardo*
 [YouTube](https://www.youtube.com/watch?v=uDB3fe2OJ3c)
+
+
+##Fate il Nostro gioco - Il metodo del radoppio
+[Youtube](https://www.youtube.com/watch?v=T9mBljP8kF4&t=6s)
 
 ---
 
