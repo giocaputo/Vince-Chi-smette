@@ -41,7 +41,9 @@ Perché si diventa dipendenti dai videogiochi? Come si riconoscono i sintomi del
 -  🎲 [**Se questo è un gioco**](https://www.sequestoeungioco.org/)
 Educazione, prevenzione e informazione sull’azzardo
 
+- [**L’Associazione Movimento NoSLot**](https://movimentonoslot.org/chi-siamo/)
 
+  
 ---
 
 ## 📊 Report e Documenti
