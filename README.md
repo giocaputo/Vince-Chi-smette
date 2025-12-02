@@ -25,6 +25,8 @@ Perché si diventa dipendenti dai videogiochi? Come si riconoscono i sintomi del
    [Sito](https://azzardotivinco.it/)
   - "Cambio Gioco" è il festival che si svolge a Padova, organizzato dall'ULSS 6 Euganea, dedicato alla prevenzione delle dipendenze comportamentali e del gioco d'azzardo patologico [Cambio Gioco](https://cambiogiocoulss6.it/)
   - Formazione Online Per insegnanti [Video](https://www.youtube.com/playlist?list=PLWnqswZXgTMDAeTDkIk2PRCDH4YNETEWi)
+  - **Autorità garante per l'infanzia e l'adolescenza** -
+    [GLI ADOLESCENTI ITALIANI FASE A - QUALITATIVA IL GIOCO D’AZZARDO](https://www.garanteinfanzia.org/wp-content/uploads/2025/06/Gioco_d_azzardo_report_analitico-1-1-1.pdf)
 
 ---
 
