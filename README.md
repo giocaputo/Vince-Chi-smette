@@ -17,13 +17,7 @@ Questo repository raccoglie **dati, studi, leggi, campagne e materiali multimedi
 - **FICT (Federazione Italiana Comunità terapeutiche)** 
    - [Sezioni regionali](https://www.fict.it/2023/12/gioco-dazzardo/)
    - [Glossario](https://www.fict.it/wp-content/uploads/2023/12/Glossario_materialeGapFICT.pdf)
-   - Video informativo a cura del dott. Francesco Conti, psicologo e psicoterapeuta del Centro di Solidarietà “Il F.A.R.O.” di Messina, Marsala. [Tratti e ritratti della dipendenza da gioco d’azzardo patologico](https://www.youtube.com/watch?v=ROtjfYV7jUE)
-   - Video Informativo per minori a cura del dott. Francesco Conti, psicologo e psicoterapeuta del Centro di Solidarietà “Il F.A.R.O.”. [Gioco d’azzardo: cosa devono sapere i minori](https://youtu.be/rgSNWZ1Mkvg)
-   - Video “La Dipendenza dai Videogiochi: Come Riconoscerla, Come Funziona e Come Uscirne? | #TELOSPIEGO”
-Perché si diventa dipendenti dai videogiochi? Come si riconoscono i sintomi della dipendenza da gaming e come si fa ad uscirne? [#TELOSPIEGO in questo video, realizzato in collaborazione con l’Istituto Superiore di Sanità e finanziato dal Dipartimento Politiche Antidroga del Ministero della Salute.](https://www.youtube.com/watch?v=UcUZE8BJ4Ic)
-- **Azzardo Ti Vinco**
-   [Sito](https://azzardotivinco.it/)
-- "Cambio Gioco" è il festival che si svolge a Padova, organizzato dall'ULSS 6 Euganea, dedicato alla prevenzione delle dipendenze comportamentali e del gioco d'azzardo patologico [Cambio Gioco](https://cambiogiocoulss6.it/)
+
 
 - **Autorità garante per l'infanzia e l'adolescenza** -
     [GLI ADOLESCENTI ITALIANI FASE A - QUALITATIVA IL GIOCO D’AZZARDO](https://www.garanteinfanzia.org/wp-content/uploads/2025/06/Gioco_d_azzardo_report_analitico-1-1-1.pdf)
@@ -54,6 +48,10 @@ Se questo è un gioco è il portale di informazione, prevenzione, sensibilizzazi
 . i familiari e le persone vicine a chi gioca d’azzardo in modo problematico o patologico
 . le persone che desiderano essere consapevoli di un tema che è sottobanco, ma che invece ci riguarda tutti, anche se non abbiamo una dipendenza da azzardo e anche se non abbiamo mai ‘giocato’. 
 
+- **Azzardo Ti Vinco**
+   [Sito](https://azzardotivinco.it/)
+  
+- "Cambio Gioco" è il festival che si svolge a Padova, organizzato dall'ULSS 6 Euganea, dedicato alla prevenzione delle dipendenze comportamentali e del gioco d'azzardo patologico [Cambio Gioco](https://cambiogiocoulss6.it/)
 ---
 
 ## 📊 Report e Documenti
@@ -175,6 +173,11 @@ I documenti ADM riportano la **raccolta (giocato)**, le **vincite** e il **getti
 [Short youtube](https://www.youtube.com/shorts/XPdlbdAaCqI)
 
 ##Formazione Online Per insegnanti [Video](https://www.youtube.com/playlist?list=PLWnqswZXgTMDAeTDkIk2PRCDH4YNETEWi)
+
+- Video informativo a cura del dott. Francesco Conti, psicologo e psicoterapeuta del Centro di Solidarietà “Il F.A.R.O.” di Messina, Marsala. [Tratti e ritratti della dipendenza da gioco d’azzardo patologico](https://www.youtube.com/watch?v=ROtjfYV7jUE)
+   - Video Informativo per minori a cura del dott. Francesco Conti, psicologo e psicoterapeuta del Centro di Solidarietà “Il F.A.R.O.”. [Gioco d’azzardo: cosa devono sapere i minori](https://youtu.be/rgSNWZ1Mkvg)
+   - Video “La Dipendenza dai Videogiochi: Come Riconoscerla, Come Funziona e Come Uscirne? | #TELOSPIEGO”
+Perché si diventa dipendenti dai videogiochi? Come si riconoscono i sintomi della dipendenza da gaming e come si fa ad uscirne? [#TELOSPIEGO in questo video, realizzato in collaborazione con l’Istituto Superiore di Sanità e finanziato dal Dipartimento Politiche Antidroga del Ministero della Salute.](https://www.youtube.com/watch?v=UcUZE8BJ4Ic)
 ---
 
 📌 *Tutti i link sono verificati e aggiornati (ottobre 2025). Se desideri contribuire, aggiungi altre fonti regionali o materiali locali tramite una pull request o contattando giovannicaputo86@gmail.com*
