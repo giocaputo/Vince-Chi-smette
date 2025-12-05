@@ -52,6 +52,11 @@ Se questo è un gioco è il portale di informazione, prevenzione, sensibilizzazi
    [Sito](https://azzardotivinco.it/)
   
 - "Cambio Gioco" è il festival che si svolge a Padova, organizzato dall'ULSS 6 Euganea, dedicato alla prevenzione delle dipendenze comportamentali e del gioco d'azzardo patologico [Cambio Gioco](https://cambiogiocoulss6.it/)
+
+- ** Gioco scaccia Gioco**
+   [Sito](https://www.conkarma.it/giocoscacciagioco2/)
+  La mossa giusta: un escape book per allenare la mente e sconfiggere il gioco d’azzardo, un’unità didattica interattiva su ragionamento probabilistico, caso e aleatorietà, pensiero magico, bias cognitivi e aspettative di guadagno legate al gioco d’azzardo.
+  [La mossa giusta](https://www.epubeditor.it/ebook3/248800.html)
 ---
 
 ## 📊 Report e Documenti
