@@ -181,8 +181,7 @@ I documenti ADM riportano la **raccolta (giocato)**, le **vincite** e il **getti
 Ma come funziona la tecnologia che c’è dietro? E com’è possibile che si perdano soldi, nonostante le continue vincite? by GEOPOP
 [Instagram](https://www.instagram.com/reel/DRINmWNilY8/)
 
-##Formazione Online Per insegnanti [Video](https://www.youtube.com/playlist?list=PLWnqswZXgTMDAeTDkIk2PRCDH4YNETEWi)
-
+## Formazione Online Per insegnanti [Video](https://www.youtube.com/playlist?list=PLWnqswZXgTMDAeTDkIk2PRCDH4YNETEWi)
 - Video informativo a cura del dott. Francesco Conti, psicologo e psicoterapeuta del Centro di Solidarietà “Il F.A.R.O.” di Messina, Marsala. [Tratti e ritratti della dipendenza da gioco d’azzardo patologico](https://www.youtube.com/watch?v=ROtjfYV7jUE)
    - Video Informativo per minori a cura del dott. Francesco Conti, psicologo e psicoterapeuta del Centro di Solidarietà “Il F.A.R.O.”. [Gioco d’azzardo: cosa devono sapere i minori](https://youtu.be/rgSNWZ1Mkvg)
    - Video “La Dipendenza dai Videogiochi: Come Riconoscerla, Come Funziona e Come Uscirne? | #TELOSPIEGO”
