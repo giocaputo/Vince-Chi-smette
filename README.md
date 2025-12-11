@@ -145,6 +145,11 @@ Caritas Italiana Rapporto Poverta 2025 [LINK](https://www.caritas.it/wp-content/
 **GIOCO D’AZZARDO NELLA POPOLAZIONE ADULTA: STUDIO EPIDEMIOLOGICO TRASVERSALE DI TIPO OSSERVAZIONALE**
 ISTITUTO SUPERIORE DI SANITÀ [LINK](https://usciredalgioco.iss.it/it/news/38-gioco-dazzardo-nella-popolazione-adulta-studio-epidemiologico-trasversale-di-ti/)
 
+**Giochi e scommesse: il labirinto dell’azzardo**
+CNCA [LINK](https://www.cnca.it/wp-content/uploads/2024/12/Dossier_Giochi-e-scommesse-il-labirinto-dellazzardo.pdf)
+
+
+
 ## 🧩 Altri Siti Utili
 - [NoSlot Lombardia](https://www.noslot.regione.lombardia.it)
 - [Azzardo e giovani – Regione Emilia-Romagna](https://sociale.regione.emilia-romagna.it/contrasto-azzardo)
