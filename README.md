@@ -138,6 +138,9 @@ I documenti ADM riportano la **raccolta (giocato)**, le **vincite** e il **getti
 
 ---
 
+## Altri documenti utili
+LA DERIVA NAZIONALE DELL’AZZARDO INDUSTRIALE DI MASSA E LE SUE CONSEGUENZE - Caritas Italiana Rapporto Poverta 2025 [LINK](https://www.caritas.it/wp-content/uploads/sites/2/2025/11/Rapporto-Poverta-2025-Versione-integrale.pdf)
+
 ## 🧩 Altri Siti Utili
 - [NoSlot Lombardia](https://www.noslot.regione.lombardia.it)
 - [Azzardo e giovani – Regione Emilia-Romagna](https://sociale.regione.emilia-romagna.it/contrasto-azzardo)
