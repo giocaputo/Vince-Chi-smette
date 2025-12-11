@@ -148,7 +148,8 @@ ISTITUTO SUPERIORE DI SANITÀ [LINK](https://usciredalgioco.iss.it/it/news/38-gi
 **Giochi e scommesse: il labirinto dell’azzardo**
 CNCA [LINK](https://www.cnca.it/wp-content/uploads/2024/12/Dossier_Giochi-e-scommesse-il-labirinto-dellazzardo.pdf)
 
-
+**Gioco d'azzardo in Italia:ricerca, formazione e informazione**
+RAPPORTI ISTISAN 19 28 [LINK](https://usciredalgioco.iss.it/public-ga/Files/notizie/rapportoIstisan/Rapporto_ISTISAN_gioco_d_azzardo.pdf)
 
 ## 🧩 Altri Siti Utili
 - [NoSlot Lombardia](https://www.noslot.regione.lombardia.it)
