@@ -151,6 +151,9 @@ CNCA [LINK](https://www.cnca.it/wp-content/uploads/2024/12/Dossier_Giochi-e-scom
 **Gioco d'azzardo in Italia:ricerca, formazione e informazione**
 RAPPORTI ISTISAN 19 28 [LINK](https://usciredalgioco.iss.it/public-ga/Files/notizie/rapportoIstisan/Rapporto_ISTISAN_gioco_d_azzardo.pdf)
 
+**Il calcio in Europa ha un problema di dipendenza dal mondo delle scommesse**
+[Leggi] (https://www.investigate-europe.eu/it/posts/revealed-how-gambling-betting-industry-sponsors-european-football)
+
 ## 🧩 Altri Siti Utili
 - [NoSlot Lombardia](https://www.noslot.regione.lombardia.it)
 - [Azzardo e giovani – Regione Emilia-Romagna](https://sociale.regione.emilia-romagna.it/contrasto-azzardo)
