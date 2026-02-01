@@ -88,6 +88,9 @@ Se questo è un gioco è il portale di informazione, prevenzione, sensibilizzazi
 
 > 📊 Questi report mettono in luce l’espansione del gioco d’azzardo online anche nei piccoli comuni, evidenziando l’impatto sociale e psicologico nelle aree rurali e periferiche.
 
+## GIOVANI
+[Monitoraggio della pratica del gioco d’azzardo nella popolazione scolastica 14 – 17 anni](https://usciredalgioco.iss.it/it/news/1043-monitoraggio-della-pratica-del-gioco-dazzardo-nella-popolazione-scolastica-14/)
+[Prevalenza dei comportamenti di gioco d’azzardo in un campione di preadolescenti italiani tra i 12 e i 14 anni] (https://epiprev.it/articoli_scientifici/prevalenza-dei-comportamenti-di-gioco-dazzardo-in-un-campione-di-preadolescenti-italiani-tra-i-12-e-i-14-anni)
 
 ### 📊 Rapporti ESPAD Italia 
 
