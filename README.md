@@ -60,7 +60,6 @@ Se questo è un gioco è il portale di informazione, prevenzione, sensibilizzazi
 ---
 
 ## 📊 Report e Documenti
-- 📘 [Federconsumatori – Libro Nero dell’Azzardo 2024](https://www.federconsumatori.it/wp-content/uploads/2024/05/ln2_revfinale_24maggio2024.pdf)
 - 📗 [Rapporto CNR ESPAD Italia 2024](https://www.epid.ifc.cnr.it/wp-content/uploads/2024/11/ESPAD_2023_FINAL-1.0.pdf)
 - 📙 [Rapporto CNCA 2023 – L’azzardo in Italia](https://www.cnca.it/wp-content/uploads/2023/06/rapporto-azzardo-cnca-2023.pdf)
 - 📙[Centro Nazionale Dipendenze e Doping, Istituto Superiore di Sanità- Monitoraggio della pratica del gioco d’azzardo nella popolazione scolastica 2025](https://usciredalgioco.iss.it/it/news/1046-monitoraggio-della-pratica-del-gioco-dazzardo-nella-popolazione-scolastica-2025/)
@@ -71,6 +70,7 @@ Se questo è un gioco è il portale di informazione, prevenzione, sensibilizzazi
 
 | Anno | Titolo | Link Ufficiale |
 |------|---------|----------------|
+| **2026** | *Il Libro Nero dell’Azzardo. LO STATO PERDENTE* | [Scarica PDF]([https://www.federconsumatori.it/wp-content/uploads/2025/07/report_ln3_3luglio2025.pdf](https://files.cgil.it/version/c:MzU3MmE3ZjgtZTAzMC00:MTQ1ZDE5MTgtOTZiMy00/Report_LN4_27maggio2026_new.pdf)) |
 | **2025** | *Il Libro Nero dell’Azzardo. Mafie, Dipendenze, Giovani, Europa* | [Scarica PDF](https://www.federconsumatori.it/wp-content/uploads/2025/07/report_ln3_3luglio2025.pdf) |
 | **2024** | *Il Libro Nero dell’Azzardo – Edizione 2024* | [Scarica PDF](https://www.federconsumatori.it/wp-content/uploads/2024/05/ln2_revfinale_24maggio2024.pdf) |
 | **2023** | *Il Libro Nero dell’Azzardo – La crescita impetuosa dell’azzardo online in Italia. Mafie, Dipendenze, Giovani* | [Scarica PDF](https://www.federconsumatori.it/wp-content/uploads/2023/09/report_azzardo_nazionale.pdf) |
